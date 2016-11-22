@@ -3,3 +3,4 @@ blog/migrations/*
 mysite/__pycache__/*
 mysite/migrations/*
 mysite/settings.py
+venv/
